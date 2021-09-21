@@ -2,4 +2,4 @@
 
 ### live preview
 
-https://navbar.netlify.app
+https://navbar-reactjs.netlify.app
